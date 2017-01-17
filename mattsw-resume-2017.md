@@ -62,22 +62,18 @@ Major Software Proficiencies:
 
 Microsoft
 :   Azure, AzureSQL • Windows Server • SQL Server • IIS • .NET • Visual Studio with TFS
-: •
 
 Monitoring
 :   Puppet •   NAGIOS •   Check_MK •   AppDynamics •   Solarwinds DPA (Confio) •   ThousandEyes •   Git
-: •
 
 Scripting
 :   Powershell •   Python •   Ruby •   VIM
-: •
 
 Networking
 :   CISCO Routing and Switching •   F5 Networks BigIP •   F5 Networks LTM •   Azure SLB
-: •
 
 Misc
-:   See my [github](http://) and [BitBucket](http://)
+:   See my [github](http://) and [bitbucket](http://)
 
 Technical Details:
 ----------------------------------
