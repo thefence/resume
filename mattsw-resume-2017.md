@@ -54,6 +54,7 @@ June 2008 April 2009
 
 May 2005 June 2008
 :   *Systems Administrator for [Atomic Medium Inc](http://www.atomicmedium.com)*
+    (Tempe, AZ).
     
     Windows Server 2003, Windows Server 2000, Redhat Linux 7.2, SuSE Linux, and WinXP embedded workstations to control semiconductor tools and robots.
 
@@ -61,16 +62,16 @@ Major Software Proficiencies:
 ----------------------------------
 
 Microsoft
-:   Azure, AzureSQL • Windows Server • SQL Server • IIS • .NET • Visual Studio with TFS
+:   [Azure](https://azure.microsoft.com/en-us/), AzureSQL, [Windows Server](https://www.microsoft.com/en-us/cloud-platform/windows-server), [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2016), IIS, [.NET](https://www.microsoft.com/net), [Visual Studio with TFS](https://www.visualstudio.com/tfs/)
 
 Monitoring
-:   Puppet •   NAGIOS •   Check_MK •   AppDynamics •   Solarwinds DPA (Confio) •   ThousandEyes •   Git
+:   [Puppet](https://puppet.com), [NAGIOS](https://www.nagios.org), [Check_MK](https://mathias-kettner.de/check_mk.html), [AppDynamics](https://www.appdynamics.com), [Solarwinds DPA](http://www.solarwinds.com/database-performance-monitoring-software), [ThousandEyes](https://www.thousandeyes.com), [Git](https://git-scm.com)
 
 Scripting
-:   Powershell •   Python •   Ruby •   VIM
+:   [Powershell](https://github.com/powershell/powershell), [Python](https://www.python.org), [Ruby](https://www.ruby-lang.org/en/), VIM
 
 Networking
-:   CISCO Routing and Switching •   F5 Networks BigIP •   F5 Networks LTM •   Azure SLB
+:   [CISCO](http://www.cisco.com) Routing and Switching, [F5 Networks](https://f5.com) BigIP, [F5 Networks](https://f5.com) LTM, [Azure Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview)
 
 Misc
 :   See my [github](http://) and [bitbucket](http://)
