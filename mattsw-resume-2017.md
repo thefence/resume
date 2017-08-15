@@ -22,7 +22,7 @@ Since Sep 2013
 	
 	Day to day work includes working with scalable infrastructure and Azure solutions to create and manage complex, redundant web applications. For the Dynamics Marketing product I decreased the attack surface area by 50% while working on the mega project to bring all Dynamics services into Azure.
 
-	After becoming an expert in many of the technologies used by this DevOps team, I have become the primary mentor for all Dynamics DevOps and Security new hires as well as a DevOps methodology training instructor.
+	After becoming an expert in many of the technologies used by this DevOps team, I have become the primary mentor for all Dynamics DevOps and Security new hires as well as a DevOps methodology training instructor. I am also on the change approval board for all pre-production and production changes made to the above products.
 	
 	Daily tasks require expert level knowledge of MSSQL, Powershell, C#, Ruby, Azure REST APIs, AzureSQL, IIS, DNS, AppDynamics, ThousandEyes, and various Solarwinds monitoring systems.
 
