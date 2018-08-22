@@ -82,7 +82,7 @@ Technical Details:
 Windows
 :   ***12*** years of experience working with various Windows infrastructure implementations and automation.
 
-    Expert at designing and maintaining Windows stacks using Windows Server, AzureSQL or MSSQL, IIS, .Net Core, etc. This includes Group Policy management, DNS management, Microsoft SQL performance tuning and maintenance, and various stack maintenance leveraging Powershell and C#.
+    Expert at designing and maintaining Windows stacks using Windows Server, AzureSQL or MSSQL, IIS, .NET, and more. This includes desired state configuration management, DNS management, Microsoft SQL performance tuning and maintenance, and various other Windows stack maintenance leveraging Powershell and C#.
 
 SRE
 :   ***6*** years of experience as part of various SRE teams focusing on highly scalable system design and sustained maintenance.
