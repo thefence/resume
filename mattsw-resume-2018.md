@@ -7,7 +7,7 @@ Matthew R Sweet II
 
 ----
 
-Site Reliability Engineer with twelve years of experience in Windows Server infrastructure planning, design, and implementation. I have mastered the fundamentals of infrastructure capacity planning, scalable service design, SaaS service health monitoring, and sustained engineering. Several colleagues have stated that my technical writing and systems documentation is of the highest quality and accuracy.
+I am a Senior Site Reliability Engineer with thirteen years of experience in Windows Server infrastructure planning, design, and implementation. I have mastered the fundamentals of infrastructure capacity planning, scalable service design, SaaS service health monitoring, and sustained engineering. Several of my colleagues and mentors have stated that my technical writing and systems documentation is of the highest quality and accuracy.
 
 ----
 
@@ -15,16 +15,16 @@ Work Experience
 --------------------
 
 Since Sep 2013
-:   ***Site Reliability Engineer II for [Microsoft Corporation](https://dynamics.microsoft.com/en-us/)***
+:   ***Senior Site Reliability Engineer for [Microsoft Corporation](https://dynamics.microsoft.com/en-us/)***
     (Bellevue and Redmond, WA)
 
-    Part of the Dynamics 365 DevOps engineering team. This position includes working closely with Software Engineers, Program Managers, and other technical staff to create and manage globally accessible SaaS offerings in the Dynamics 365 software suite.
+    Part of the Dynamics 365 Engineering Quality team. This position includes working closely with Software Engineers, Program Managers, and other technical staff to create and manage globally accessible SaaS offerings within the Dynamics 365 software collection.
 	
 	Day to day work includes working with flexible, scalable infrastructure and Azure solutions to create and manage complex, redundant web applications. For the Dynamics 365 Marketing product I decreased the attack surface area by 50% while working on the mega project to bring all Dynamics 365 Marketing services into Azure.
 
-	I have become a primary mentor for all Dynamics 365 DevOps and Security new hires as well as a DevOps methodology training instructor. I am also on the change approval board for all pre-production and production changes made to the Dynamics 365 products.
+	I have become a primary mentor for all Dynamics 365 SRE and Security new hires as well as a SRE methodology training instructor. I am also on the change approval board for all pre-production and production changes made to several of the Dynamics 365 codebases.
 	
-	Daily tasks require expert level knowledge of MSSQL, Powershell, C#, Ruby, Azure REST APIs, AzureSQL, IIS, DNS, AppDynamics, ThousandEyes, and various Solarwinds monitoring systems.
+	Daily tasks require expert level knowledge of MSSQL, Powershell, C#, Python, Azure REST APIs, AzureSQL, IIS, DNS, AppDynamics, ThousandEyes, and various Solarwinds monitoring systems.
 
 July 2010 Sep 2013
 :   ***Windows Systems Engineer for [Catalyst Computer Technologies](http://www.cct247.com)***
@@ -65,7 +65,7 @@ Microsoft
 :   [Azure](https://azure.microsoft.com/en-us/), AzureSQL, [Windows Server](https://www.microsoft.com/en-us/cloud-platform/windows-server), [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2016), IIS, [.NET](https://www.microsoft.com/net), [Visual Studio with TFS](https://www.visualstudio.com/tfs/)
 
 Monitoring
-:   [Puppet](https://puppet.com), [NAGIOS](https://www.nagios.org), [Check_MK](https://mathias-kettner.de/check_mk.html), [AppDynamics](https://www.appdynamics.com), [Solarwinds DPA](http://www.solarwinds.com/database-performance-monitoring-software), [ThousandEyes](https://www.thousandeyes.com), [Git](https://git-scm.com)
+:   [Puppet](https://puppet.com), [NAGIOS](https://www.nagios.org), [Check_MK](https://mathias-kettner.de/check_mk.html), [AppDynamics](https://www.appdynamics.com), [Solarwinds DPA](http://www.solarwinds.com/database-performance-monitoring-software), [Solarwinds SAM](https://www.solarwinds.com/server-application-monitor)[ThousandEyes](https://www.thousandeyes.com), [Git](https://git-scm.com)
 
 Scripting
 :   [Powershell](https://github.com/powershell/powershell), [Python](https://www.python.org), [Ruby](https://www.ruby-lang.org/en/), VIM
@@ -74,43 +74,43 @@ Networking
 :   [CISCO](http://www.cisco.com) Routing and Switching, [F5 Networks](https://f5.com) BigIP, [F5 Networks](https://f5.com) LTM, [Azure Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview)
 
 Misc
-:   See my [github](https://github.com/thefence/resume) and [bitbucket](https://bitbucket.org/mattsw)
+:   See my [github](https://github.com/thefence/resume)
 
 Technical Details:
 ----------------------------------
 
 Windows
-:   ***11*** years of experience working with Windows Active Directory implementation and automation.
+:   ***12*** years of experience working with various Windows infrastructure implementations and automation.
 
-    Expert at designing and maintaining windows domains and forests with Windows Server 2008r2, Windows Server 2012r2, and Windows Server 2016. This includes Group Policy management, DNS, DHCP, Microsoft SQL server maintenance, and AD maintenance automation using Powershell.
+    Expert at designing and maintaining Windows stacks using Windows Server, AzureSQL or MSSQL, IIS, .Net Core, etc. This includes Group Policy management, DNS management, Microsoft SQL performance tuning and maintenance, and various stack maintenance leveraging Powershell and C#.
 
-DevOps
-:   ***6*** years of experience as part of various devops teams focusing on highly scalable system design and sustained maintenance.
+SRE
+:   ***6*** years of experience as part of various SRE teams focusing on highly scalable system design and sustained maintenance.
 
-    This included researching and implementing new languages, methods, and monitoring frameworks. 3 years of experience training old and new engineers DevOps methodologies and best practices.
+    This included researching and implementing new languages, methods, and monitoring frameworks. 3 years of experience training old and new engineers SRE methodologies and best practices.
 
 Network
 :   ***7*** years of experience designing and implementing networking solutions. 
 
-    This includes high-availability systems using CISCO Routing and Switching, CISCO Unified Wireless, IPSEC VPNs, DMVPNs with GRE, RUCKUS wireless mesh and STRIX Wireless mesh networking technologies.
+    This includes high-availability systems using CISCO Routing and Switching, CISCO Unified Wireless, IPSEC VPNs, DMVPNs with GRE, RUCKUS wireless mesh and STRIX Wireless mesh networking technologies. 3 years of maintaining soft network structures such as those found in Amazon AWS and Microsoft Azure.
 
 Document
-:   ***9*** years of experience assisting with large-scale IT project design and preparation.
+:   ***10*** years of experience assisting with large-scale IT project design and preparation.
 
     In addition, 5 years experience with preparing documentation and procedures for training in-house technical staff and for educating vendor/client staff teams.
 
 V-Host
 :   ***7*** years of experience maintaining virtual server clusters. 
 
-    Using technologies like Hyper-V and VMware ESXi to solve complex business problems in both on-premise and in data centers. 
+    Using technologies like Hyper-V and VMware ESXi in conjuction with Microsoft Azure offerings to solve complex business problems both on-premise and in datacenters. 
 
-    This also includes 4 years of experience in migrating to Azure, buildout and capacity planning, as well as maintenance of Azure microservices.
+    This also includes 5 years of experience in migrating to Microsoft Azure, buildout and capacity planning, as well as maintenance of Azure microservices.
 
 Security
-:   ***7*** years of experience reviewing and updating Windows infrastructure systems for ISO27001 compliance, HIIPA compliance standards, 
+:   ***8*** years of experience reviewing and hardening Windows and Azure infrastructure systems for ISO27001 compliance, HIIPA compliance standards, 
     as well as various US and EU government mandated standards.
 
 ----
 
 > <m@mattsw.com> • 206-981-7985 •
-> Lake Union, Seattle, Washington, United States of America, Earth.
+> Broadway District, Seattle, Washington, United States of America, Earth.
